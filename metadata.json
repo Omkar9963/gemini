@@ -1,0 +1,5 @@
+{
+  "name": "Runoff Estimation Tool",
+  "description": "A web application to estimate runoff based on basin selection, date range, land use, and soil type. Provides point and polygon-based analysis with interactive charts and map data visualization (mocked).",
+  "requestFramePermissions": []
+}
